@@ -10,7 +10,6 @@ Supported Platforms:
 1. Mac
 1. Win32
 1. Web
-1.jjjj
 
 Google Slide: [ROAD TO SUCCESS - TO BECAME A FULL STACK DEV](https://docs.google.com/presentation/d/15ZrF5rrqN9ax4LOIEYLHQLitqDBpSIC52Sz5c195K9k/edit?usp=sharing)
 
